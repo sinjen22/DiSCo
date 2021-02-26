@@ -3,7 +3,7 @@ DiSCo
 
 DiSCo: Dsr-dependent dIssimilatory Sulfur metabolism Classification tOol - Automatic detection and prediction of enzyme type of proteins involved in Dsr-dependent dissimilatory sulfur metabolism.
 
-![DiSCo wokflow](https://github.com/sinjen22/DiSCo/blob/master/DiSCo_workflow.jpg)
+![DiSCo wokflow](https://github.com/sinjen22/DiSCo/blob/main/DiSCo_workflow.jpg)
 
 -   [DESCRIPTION](#description)
 -   [USAGE](#usage)
