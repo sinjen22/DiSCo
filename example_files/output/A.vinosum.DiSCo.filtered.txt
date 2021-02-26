@@ -1,0 +1,17 @@
+#ID	protein	enzyme_type	qlen	slen	score	bias	evalue	accuracy	hmm_len	c_evalue	i_evalue	dom_score	dom_bias	current_domain	total_domnumber	domain_start	domain_end	annotation	notes
+WP_012970335.1	AprA_SOB_M	oxidative	620	624	1444.9	3.4	0	1.00	619	0	0	1444.7	3.4	1	1	1	619	adenylylsulfate_reductase_subunit_alpha_[Allochromatium_vinosum]
+WP_012970334.1	AprB_SOB_M	oxidative	160	160	355.0	1.2	6e-108	1.00	160	4e-110	6.7e-108	354.9	1.2	1	1	1	160	adenylylsulfate_reductase_subunit_beta_[Allochromatium_vinosum]
+WP_043795537.1	AprM	oxidative	255	280	504.2	3.1	1.3e-152	1.00	262	4.7e-156	1.5e-152	504.0	3.1	1	1	1	255	adenylyl-sulfate_reductase_[Allochromatium_vinosum]
+WP_012970464.1	DsrA_SOB	oxidative	417	412	788.3	0.0	2.4e-238	0.99	411	1.7e-241	2.7e-238	788.1	0.0	1	1	1	415	sulfite_reductase_subunit_alpha_[Allochromatium_vinosum]
+WP_012970465.1	DsrB_SOB	oxidative	356	358	741.6	2.0	1.8e-224	1.00	355	7.5e-227	2e-224	741.5	2.0	1	1	2	356	sulfite_reductase,_dissimilatory-type_beta_subunit_[Allochromatium_vinosum]
+WP_012970469.1	DsrC_SOB	oxidative	112	110	204.3	0.1	5.9e-62	0.98	109	1e-64	6.4e-62	204.2	0.1	1	1	4	112	sulfur_transfer_protein_TusE_[Allochromatium_vinosum]	DsrC-2Cys
+WP_012970466.1	DsrE	oxidative	130	119	224.7	0.1	3.6e-68	1.00	119	1.3e-71	4.1e-68	224.6	0.1	1	1	1	130	sulfurtransferase_[Allochromatium_vinosum]
+WP_012970467.1	DsrF	oxidative	136	123	206.8	0.6	1.3e-62	0.99	120	9.4e-66	1.5e-62	206.6	0.6	1	1	3	136	intracellular_sulfur_oxidation_protein_DsrF_[Allochromatium_vinosum]
+WP_012970468.1	DsrH	oxidative	102	99	153.7	0.0	2.5e-46	0.99	99	1.8e-49	2.8e-46	153.6	0.0	1	1	3	102	DsrH_protein_[Allochromatium_vinosum]
+WP_012970473.1	DsrJ_SOB	oxidative	152	155	197.4	0.2	1.7e-59	0.97	148	1.2e-62	1.8e-59	197.2	0.2	1	1	1	149	DsrJ_protein_[Allochromatium_vinosum]
+WP_012970471.1	DsrK_SOB	oxidative	524	510	1046.0	0.0	0	0.99	508	0	0	1045.7	0.0	1	1	1	498	reductase_[Allochromatium_vinosum]
+WP_012970472.1	DsrL_SOB	oxidative	654	647	1125.9	0.5	0	0.99	647	0	0	1125.7	0.5	1	1	1	654	glutamate_synthase_[Allochromatium_vinosum]
+WP_012970470.1	DsrM_SOB	oxidative	243	249	446.1	12.0	4.9e-135	1.00	242	3.5e-138	5.5e-135	445.9	12.0	1	1	1	242	nitrate_reductase_[Allochromatium_vinosum]
+WP_012970474.1	DsrO_SOB	oxidative	268	249	438.0	8.1	1.5e-132	0.93	240	5.6e-135	1.6e-132	437.9	8.1	1	1	18	268	4Fe-4S_ferredoxin_[Allochromatium_vinosum]
+WP_012970475.1	DsrP_SOB	oxidative	416	402	690.0	24.6	1.8e-208	0.99	401	6.5e-212	2e-208	689.8	24.6	1	1	1	405	molybdopterin_oxidoreductase_[Allochromatium_vinosum]
+WP_012970332.1	Sat_SOB2	oxidative	397	397	862.7	1.2	4.7e-261	1.00	396	1.7e-264	5.3e-261	862.6	1.2	1	1	1	396	sulfate_adenylyltransferase_[Allochromatium_vinosum]
